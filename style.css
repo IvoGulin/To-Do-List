@@ -15,7 +15,7 @@ h1{
 }
 
 #inputField {
-    width: 300px;
+    width: 400px;
     height: 46px;
     border-width: 0;
     border: 1px solid black;
@@ -26,7 +26,7 @@ h1{
 
 #addToDo {
     height: 50px;
-    width: 100px;
+    width: 92px;
     border: 2px solid black;
     vertical-align: middle;
     font-size: 30px;
